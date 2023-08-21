@@ -1,0 +1,58 @@
+{
+  "name": "Tirant Lo Blanch",
+  "shortName": "Tirant",
+  "description": "Tirant!",
+  "color": "#FF0000",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "Tirant",
+    "url": ""
+  },
+  "lang": "cz",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [{ "name": "Ano má paní", "filename": "ano_ma_pani.mp3" },
+{ "name": "Běda", "filename": "beda.mp3" },
+{ "name": "Běda má paní", "filename": "beda_ma_pani.mp3" },
+{ "name": "Co je to za pach?", "filename": "co_je_to_za_pach.mp3" },
+{ "name": "Jsme chtivé, nenasitné a chlípné", "filename": "jsme_chtive_nenasytne_a_chlipne.mp3" },
+{ "name": "Kapitáne můj pane", "filename": "kapitane_muj_pane.mp3" },
+{ "name": "Konstantinopol", "filename": "konstantinopol.mp3" },
+{ "name": "Má paní 01", "filename": "ma_pani01.mp3" },
+{ "name": "Má paní 02", "filename": "ma_pani02.mp3" },
+{ "name": "Má paní 03", "filename": "ma_pani03.mp3" },
+{ "name": "Má paní 04", "filename": "ma_pani04.mp3" },
+{ "name": "Má paní 05", "filename": "ma_pani05.mp3" },
+{ "name": "Měj soucit a nebuď moje smrt", "filename": "mej_soucit_a_nebud_moje_smrt.mp3" },
+{ "name": "Měj s touto ubohou pannou slitování", "filename": "mej_s_touto_ubohou_pannou_slitovani.mp3" },
+{ "name": "Můj pane", "filename": "muj_pane.mp3" },
+{ "name": "Nech mě být, slituj se", "filename": "nech_me_byt_slituj_se.mp3" },
+{ "name": "Odejdi, krutý muži bez lásky", "filename": "odejdi_kruty_muzi_bez_lasky.mp3" },
+{ "name": "Ó posteli", "filename": "o_posteli.mp3" },
+{ "name": "Pane Tirante", "filename": "pane_tyrante.mp3" },
+{ "name": "Pleniteli mé cudnosti", "filename": "pleniteli_me_cudnosti.mp3" },
+{ "name": "Při naší svaté matce", "filename": "pri_nasi_svate_matce.mp3" },
+{ "name": "Prosím, neubližuj mi můj pane", "filename": "prosim_neublizuj_mi_muj_pane.mp3" },
+{ "name": "Svatá Maria", "filename": "svata_maria.mp3" },
+{ "name": "Tirant 01", "filename": "tirant01.mp3" },
+{ "name": "Tirant 02", "filename": "tirant02.mp3" },
+{ "name": "Tirant 03", "filename": "tirant03.mp3" },
+{ "name": "Tirant 04", "filename": "tirant04.mp3" },
+{ "name": "Nemůžu", "filename": "tirant_nemuzu.mp3" },
+{ "name": "Třikrát dlouhý nos", "filename": "trikrat_dlouhy_nos.mp3" },
+{ "name": "Ty lžeš!", "filename": "ty_lzes.mp3" },
+{ "name": "V Konstantinopoli", "filename": "v_konstantinopoli.mp3" },
+{ "name": "Zapřísahám rytíře Tiranta", "filename": "zaprisaham_rytire_tiranta.mp3" }]
+}
